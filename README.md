@@ -2,7 +2,7 @@
 
 23/01/2020
 
-A homework project for Astrophysics classes
+Astrophysics I homework
 
 MZW.py calculates root of Legendre Polynomials for n = 3 and n = 4 and their weights to a atm_szar_a.dat file. It also generates root for W(k) equation for Chandrasekhar's method to solve grey atmosphere
 
